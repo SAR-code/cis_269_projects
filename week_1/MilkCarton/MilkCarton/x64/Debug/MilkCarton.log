@@ -1,0 +1,3 @@
+﻿  MilkCarton.cpp
+C:\Github\cis_269_projects\week_1\MilkCarton\MilkCarton\MilkCarton.cpp(33,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MilkCarton.vcxproj -> C:\Github\cis_269_projects\week_1\MilkCarton\x64\Debug\MilkCarton.exe
