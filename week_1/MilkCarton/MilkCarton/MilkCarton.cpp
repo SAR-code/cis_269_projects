@@ -45,10 +45,6 @@ int main()
     cout << "Total profit from producing milk: $" << totalProfit << endl;
 	
     return 0;
-
-
-
-    
 }
 
 
