@@ -44,6 +44,8 @@ void handleUpdatedFile()
     string fName, lName;
     double salary, percent;
 
+
+	// Read data from the input file until the end of the file
 	while (inputFile >> lName >> fName >> salary >> percent){
 
 		// Calculate the updated salary based on the percentage
