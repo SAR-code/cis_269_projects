@@ -1,8 +1,7 @@
 /*
 * script: Evergreen.cpp
-* action: This program receives the user's input for milk produced
-*         in the morning and outputs the cartons required, cost,
-*         and profit for production.
+* action: This program receives the user's input for the length, radius,
+*         and space between trees, and calculates how many trees can be planted
 * author: D.M
 * date: 07JUN25
 */
