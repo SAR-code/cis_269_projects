@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\cis_269_projects\\week_2\\HotelRental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F328EF06-F5DF-419E-B9D2-267CC39F740B}|HotelRental\\HotelRental.vcxproj|C:\\Github\\cis_269_projects\\week_2\\HotelRental\\HotelRental\\HotelRental.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F328EF06-F5DF-419E-B9D2-267CC39F740B}|HotelRental\\HotelRental.vcxproj|solutionrelative:HotelRental\\HotelRental.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelRental.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_2\\HotelRental\\HotelRental\\HotelRental.cpp",
+              "RelativeDocumentMoniker": "HotelRental\\HotelRental.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_2\\HotelRental\\HotelRental\\HotelRental.cpp",
+              "RelativeToolTip": "HotelRental\\HotelRental.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-10T05:36:20.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
