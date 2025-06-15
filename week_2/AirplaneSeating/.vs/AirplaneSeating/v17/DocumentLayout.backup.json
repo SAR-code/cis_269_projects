@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\cis_269_projects\\week_2\\AirplaneSeating\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{770350E5-4520-4D11-99C4-01184879E105}|AirplaneSeating\\AirplaneSeating.vcxproj|C:\\Github\\cis_269_projects\\week_2\\AirplaneSeating\\AirplaneSeating\\AirplaneSeating.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{770350E5-4520-4D11-99C4-01184879E105}|AirplaneSeating\\AirplaneSeating.vcxproj|solutionrelative:AirplaneSeating\\AirplaneSeating.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirplaneSeating.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_2\\AirplaneSeating\\AirplaneSeating\\AirplaneSeating.cpp",
+              "RelativeDocumentMoniker": "AirplaneSeating\\AirplaneSeating.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_2\\AirplaneSeating\\AirplaneSeating\\AirplaneSeating.cpp",
+              "RelativeToolTip": "AirplaneSeating\\AirplaneSeating.cpp",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAqwJQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-15T08:08:05.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
