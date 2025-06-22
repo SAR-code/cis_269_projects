@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\cis_269_projects\\week_3\\FederalTax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9017589-1816-4A24-ABF5-F478590BB2C8}|FederalTax\\FederalTax.vcxproj|C:\\Github\\cis_269_projects\\week_3\\FederalTax\\FederalTax\\FederalTax.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9017589-1816-4A24-ABF5-F478590BB2C8}|FederalTax\\FederalTax.vcxproj|solutionrelative:FederalTax\\FederalTax.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FederalTax.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_3\\FederalTax\\FederalTax\\FederalTax.cpp",
+              "RelativeDocumentMoniker": "FederalTax\\FederalTax.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_3\\FederalTax\\FederalTax\\FederalTax.cpp",
+              "RelativeToolTip": "FederalTax\\FederalTax.cpp",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAEAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T21:35:33.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
