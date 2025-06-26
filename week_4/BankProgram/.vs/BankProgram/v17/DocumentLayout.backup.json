@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\BankProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\BankProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\CheckingAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\CheckingAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\CheckingAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\CheckingAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\NoServiceChargeChecking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\NoServiceChargeChecking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\NoServiceChargeChecking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\NoServiceChargeChecking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\ServiceChargeChecking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\ServiceChargeChecking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\CertificateOfDeposit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\CertificateOfDeposit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\HighInterestChecking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\HighInterestChecking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\HighInterestChecking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\HighInterestChecking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\CertificateOfDeposit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\CertificateOfDeposit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\HighInterestSavings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\HighInterestSavings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\HighInterestSavings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\HighInterestSavings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\SavingsAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\SavingsAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\SavingsAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\SavingsAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17158B24-37F4-4CB0-8B90-E2F393927F65}|BankProgram\\BankProgram.vcxproj|solutionrelative:BankProgram\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckingAccount.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\CheckingAccount.cpp",
+              "RelativeDocumentMoniker": "BankProgram\\CheckingAccount.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\CheckingAccount.cpp",
+              "RelativeToolTip": "BankProgram\\CheckingAccount.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T02:23:26.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckingAccount.h",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\CheckingAccount.h",
+              "RelativeDocumentMoniker": "BankProgram\\CheckingAccount.h",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\CheckingAccount.h",
+              "RelativeToolTip": "BankProgram\\CheckingAccount.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-26T02:21:28.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CertificateOfDeposit.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\CertificateOfDeposit.cpp",
+              "RelativeDocumentMoniker": "BankProgram\\CertificateOfDeposit.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\CertificateOfDeposit.cpp",
+              "RelativeToolTip": "BankProgram\\CertificateOfDeposit.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T01:38:58.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CertificateOfDeposit.h",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\CertificateOfDeposit.h",
+              "RelativeDocumentMoniker": "BankProgram\\CertificateOfDeposit.h",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\CertificateOfDeposit.h",
+              "RelativeToolTip": "BankProgram\\CertificateOfDeposit.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-26T01:30:21.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HighInterestSavings.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\HighInterestSavings.cpp",
+              "RelativeDocumentMoniker": "BankProgram\\HighInterestSavings.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\HighInterestSavings.cpp",
+              "RelativeToolTip": "BankProgram\\HighInterestSavings.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T01:21:11.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HighInterestSavings.h",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\HighInterestSavings.h",
+              "RelativeDocumentMoniker": "BankProgram\\HighInterestSavings.h",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\HighInterestSavings.h",
+              "RelativeToolTip": "BankProgram\\HighInterestSavings.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-26T01:14:38.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.h",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\BankAccount.h",
+              "RelativeDocumentMoniker": "BankProgram\\BankAccount.h",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\BankAccount.h",
+              "RelativeToolTip": "BankProgram\\BankAccount.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-26T00:58:06.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BankAccount.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\BankAccount.cpp",
+              "RelativeDocumentMoniker": "BankProgram\\BankAccount.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\BankAccount.cpp",
+              "RelativeToolTip": "BankProgram\\BankAccount.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T00:57:59.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SavingsAccount.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\SavingsAccount.cpp",
+              "RelativeDocumentMoniker": "BankProgram\\SavingsAccount.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\SavingsAccount.cpp",
+              "RelativeToolTip": "BankProgram\\SavingsAccount.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T00:53:55.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SavingsAccount.h",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\SavingsAccount.h",
+              "RelativeDocumentMoniker": "BankProgram\\SavingsAccount.h",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\SavingsAccount.h",
+              "RelativeToolTip": "BankProgram\\SavingsAccount.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-26T00:36:04.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HighInterestChecking.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\HighInterestChecking.cpp",
+              "RelativeDocumentMoniker": "BankProgram\\HighInterestChecking.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\HighInterestChecking.cpp",
+              "RelativeToolTip": "BankProgram\\HighInterestChecking.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T00:27:01.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HighInterestChecking.h",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\HighInterestChecking.h",
+              "RelativeDocumentMoniker": "BankProgram\\HighInterestChecking.h",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\HighInterestChecking.h",
+              "RelativeToolTip": "BankProgram\\HighInterestChecking.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-26T00:22:46.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NoServiceChargeChecking.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\NoServiceChargeChecking.cpp",
+              "RelativeDocumentMoniker": "BankProgram\\NoServiceChargeChecking.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\NoServiceChargeChecking.cpp",
+              "RelativeToolTip": "BankProgram\\NoServiceChargeChecking.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-25T06:43:10.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoServiceChargeChecking.h",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\NoServiceChargeChecking.h",
+              "RelativeDocumentMoniker": "BankProgram\\NoServiceChargeChecking.h",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\NoServiceChargeChecking.h",
+              "RelativeToolTip": "BankProgram\\NoServiceChargeChecking.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-25T06:16:55.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceChargeChecking.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\ServiceChargeChecking.cpp",
+              "RelativeDocumentMoniker": "BankProgram\\ServiceChargeChecking.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\ServiceChargeChecking.cpp",
+              "RelativeToolTip": "BankProgram\\ServiceChargeChecking.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-25T05:34:48.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankProgram.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\BankProgram.cpp",
+              "RelativeDocumentMoniker": "BankProgram\\BankProgram.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_4\\BankProgram\\BankProgram\\BankProgram.cpp*",
+              "RelativeToolTip": "BankProgram\\BankProgram.cpp*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-25T04:26:24.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
