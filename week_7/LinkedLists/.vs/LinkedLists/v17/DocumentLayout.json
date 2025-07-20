@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\cis_269_projects\\week_7\\LinkedLists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50B8668D-5E5C-43E4-94B8-3974C128B02E}|LinkedLists\\LinkedLists.vcxproj|C:\\Github\\cis_269_projects\\week_7\\LinkedLists\\LinkedLists\\LinkedLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50B8668D-5E5C-43E4-94B8-3974C128B02E}|LinkedLists\\LinkedLists.vcxproj|solutionrelative:LinkedLists\\LinkedLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B8668D-5E5C-43E4-94B8-3974C128B02E}|LinkedLists\\LinkedLists.vcxproj|C:\\Github\\cis_269_projects\\week_7\\LinkedLists\\LinkedLists\\OrderedLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50B8668D-5E5C-43E4-94B8-3974C128B02E}|LinkedLists\\LinkedLists.vcxproj|solutionrelative:LinkedLists\\OrderedLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B8668D-5E5C-43E4-94B8-3974C128B02E}|LinkedLists\\LinkedLists.vcxproj|C:\\Github\\cis_269_projects\\week_7\\LinkedLists\\LinkedLists\\OrderedLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50B8668D-5E5C-43E4-94B8-3974C128B02E}|LinkedLists\\LinkedLists.vcxproj|solutionrelative:LinkedLists\\OrderedLinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderedLinkedList.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_7\\LinkedLists\\LinkedLists\\OrderedLinkedList.cpp",
+              "RelativeDocumentMoniker": "LinkedLists\\OrderedLinkedList.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_7\\LinkedLists\\LinkedLists\\OrderedLinkedList.cpp",
+              "RelativeToolTip": "LinkedLists\\OrderedLinkedList.cpp",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAI8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T05:59:59.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderedLinkedList.h",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_7\\LinkedLists\\LinkedLists\\OrderedLinkedList.h",
+              "RelativeDocumentMoniker": "LinkedLists\\OrderedLinkedList.h",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_7\\LinkedLists\\LinkedLists\\OrderedLinkedList.h",
+              "RelativeToolTip": "LinkedLists\\OrderedLinkedList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-20T05:45:20.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedLists.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_7\\LinkedLists\\LinkedLists\\LinkedLists.cpp",
+              "RelativeDocumentMoniker": "LinkedLists\\LinkedLists.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_7\\LinkedLists\\LinkedLists\\LinkedLists.cpp",
+              "RelativeToolTip": "LinkedLists\\LinkedLists.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T05:33:18.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
