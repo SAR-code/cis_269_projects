@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\cis_269_projects\\week_9\\BinaryTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6456605-B21A-490B-BF93-803075EEA383}|BinaryTree\\BinaryTree.vcxproj|C:\\Github\\cis_269_projects\\week_9\\BinaryTree\\BinaryTree\\BinaryTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6456605-B21A-490B-BF93-803075EEA383}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\BinaryTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6456605-B21A-490B-BF93-803075EEA383}|BinaryTree\\BinaryTree.vcxproj|C:\\Github\\cis_269_projects\\week_9\\BinaryTree\\BinaryTree\\BinaryTreeType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6456605-B21A-490B-BF93-803075EEA383}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\BinaryTreeType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6456605-B21A-490B-BF93-803075EEA383}|BinaryTree\\BinaryTree.vcxproj|C:\\Github\\cis_269_projects\\week_9\\BinaryTree\\BinaryTree\\BinaryTreeType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6456605-B21A-490B-BF93-803075EEA383}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\BinaryTreeType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinaryTreeType.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_9\\BinaryTree\\BinaryTree\\BinaryTreeType.cpp",
+              "RelativeDocumentMoniker": "BinaryTree\\BinaryTreeType.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_9\\BinaryTree\\BinaryTree\\BinaryTreeType.cpp",
+              "RelativeToolTip": "BinaryTree\\BinaryTreeType.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T01:45:45.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinaryTreeType.h",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_9\\BinaryTree\\BinaryTree\\BinaryTreeType.h",
+              "RelativeDocumentMoniker": "BinaryTree\\BinaryTreeType.h",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_9\\BinaryTree\\BinaryTree\\BinaryTreeType.h",
+              "RelativeToolTip": "BinaryTree\\BinaryTreeType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-04T01:17:27.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryTree.cpp",
+              "DocumentMoniker": "C:\\Github\\cis_269_projects\\week_9\\BinaryTree\\BinaryTree\\BinaryTree.cpp",
+              "RelativeDocumentMoniker": "BinaryTree\\BinaryTree.cpp",
+              "ToolTip": "C:\\Github\\cis_269_projects\\week_9\\BinaryTree\\BinaryTree\\BinaryTree.cpp",
+              "RelativeToolTip": "BinaryTree\\BinaryTree.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-04T00:52:05.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
